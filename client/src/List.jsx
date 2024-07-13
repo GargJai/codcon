@@ -5,9 +5,11 @@ function List({ prop }) {
   const { title, host, url, start, hr_duration, color, icon } = prop;
 
   return (
-    <div className="list-item" style={{ borderLeftColor: color }}>
+    <div className="list-item" style={{}}>
       <div className="list-details">
-        <h2>{title}</h2>
+        <a href={url} target="_blank">
+          <h2>{title}</h2>
+        </a>
         <div className="list-timing">
           <p>Start date: {new Date(start).toLocaleDateString()}</p>
           <p>Start time: {new Date(start).toLocaleTimeString()}</p>
