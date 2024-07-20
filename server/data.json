@@ -1,66 +1,242 @@
 [
   {
-    "title": "Codeforces Round 957 (Div. 3)",
-    "start": "2024-07-11 14:35:00",
-    "end": "2024-07-11 16:50:00",
-    "hr_duration": "2.25",
-    "icon": "./images/codeforces.png",
-    "url": "https://codeforces.com/contest/199"
+    "title": "PBDJ 7 C-5",
+    "start": "2023-10-10T18:30:00",
+    "end": "2024-10-09T18:30:00",
+    "hr_duration": "365 days",
+    "icon": "./images/geeksforgeeks_org.png",
+    "url": "https://practice.geeksforgeeks.org/contest/pbdj-7-c-5/"
   },
   {
-    "title": "Codeforces Round (Div. 2)", 
-    "start": "2024-07-15 14:35:00", 
-    "end": "2024-07-15 16:35:00", 
-    "hr_duration": "2.00", 
-    "icon": "./images/codeforces.png", 
-    "url": "https://codeforces.com/contest/198"
-  }, 
-  {
-    "title": "Starters 143", 
-    "start": "2024-07-17 14:30:00", 
-    "end": "2024-07-17 16:30:00", 
-    "hr_duration": "2.00", 
-    "icon": "./images/codechef.png", 
-    "url": "https://www.codechef.com/START14"
+    "title": "AtCoder Beginner Contest 363",
+    "start": "2024-07-20T12:00:00",
+    "end": "2024-07-20T13:40:00",
+    "hr_duration": "01:40",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/abc363"
   },
   {
-    "title": "Codeforces Round (Div. 1 + Div. 2)", 
-    "start": "2024-07-18 14:35:00", 
-    "end": "2024-07-18 17:35:00", 
-    "hr_duration": "3.00", 
-    "icon": "./images/codeforces.png", 
-    "url": "https://codeforces.com/contest/199"
+    "title": "Biweekly Contest 135",
+    "start": "2024-07-20T14:30:00",
+    "end": "2024-07-20T16:00:00",
+    "hr_duration": "01:30",
+    "icon": "./images/leetcode_com.png",
+    "url": "https://leetcode.com/contest/biweekly-contest-135"
   },
   {
-    "title": "Codeforces Round (Div. 2)", 
-    "start": "2024-07-20 14:35:00", 
-    "end": "2024-07-20 16:35:00", 
-    "hr_duration": "2.00", 
-    "icon": "./images/codeforces.png", 
-    "url": "https://codeforces.com/contest/199"
+    "title": "Codeforces Round 960 (Div. 2)",
+    "start": "2024-07-20T14:35:00",
+    "end": "2024-07-20T16:35:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codeforces_com.png",
+    "url": "https://codeforces.com/contests/1990"
   },
   {
-    "title": "Starters 144",
-    "start": "2024-07-24 14:30:00",
-    "end": "2024-07-24 16:30:00",
-    "hr_duration": "2.00",
-    "icon": "./images/codechef.png",
-    "url": "https://www.codechef.com/START14"
+    "title": "Weekly Contest 407",
+    "start": "2024-07-21T02:30:00",
+    "end": "2024-07-21T04:00:00",
+    "hr_duration": "01:30",
+    "icon": "./images/leetcode_com.png",
+    "url": "https://leetcode.com/contest/weekly-contest-407"
   },
   {
-    "title": "Pinely Round 4 (Div. 1 + Div. 2)",
-    "start": "2024-07-28 14:35:00",
-    "end": "2024-07-28 17:35:00",
-    "hr_duration": "3.00",
-    "icon": "./images/codeforces.png",
-    "url": "https://codeforces.com/contest/199"
+    "title": "ALGO ARTIS Programming Contest 2024 Summer（AtCoder Heuristic Contest 035）",
+    "start": "2024-07-21T06:00:00",
+    "end": "2024-07-21T10:00:00",
+    "hr_duration": "04:00",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/ahc035"
+  },
+  {
+    "title": "GFG Weekly - 164 [Rated Contest]",
+    "start": "2024-07-21T13:30:00",
+    "end": "2024-07-21T15:00:00",
+    "hr_duration": "01:30",
+    "icon": "./images/geeksforgeeks_org.png",
+    "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-164-rated-contest/"
+  },
+  {
+    "title": "Job-A-Thon 35 Hiring Challenge",
+    "start": "2024-07-22T14:30:00",
+    "end": "2024-07-22T17:00:00",
+    "hr_duration": "02:30",
+    "icon": "./images/geeksforgeeks_org.png",
+    "url": "https://practice.geeksforgeeks.org/contest/job-a-thon-35-hiring-challenge/"
   },
   {
     "title": "Codeforces Round (Div. 2)",
-    "start": "2024-08-04 14:35:00",
-    "end": "2024-08-04 16:35:00",
-    "hr_duration": "2.00",
-    "icon": "./images/codeforces.png",
-    "url": "https://codeforces.com/contest/199"
+    "start": "2024-07-23T14:35:00",
+    "end": "2024-07-23T16:35:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codeforces_com.png",
+    "url": "https://codeforces.com/contests/1995"
+  },
+  {
+    "title": "Starters 144",
+    "start": "2024-07-24T14:30:00",
+    "end": "2024-07-24T16:30:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codechef_com.png",
+    "url": "https://www.codechef.com/START144"
+  },
+  {
+    "title": "Codeforces Round (Div. 3)",
+    "start": "2024-07-26T14:35:00",
+    "end": "2024-07-26T16:50:00",
+    "hr_duration": "02:15",
+    "icon": "./images/codeforces_com.png",
+    "url": "https://codeforces.com/contests/1996"
+  },
+  {
+    "title": "Japan Registry Services (JPRS) Programming Contest 2024#2 (AtCoder Beginner Contest 364)",
+    "start": "2024-07-27T12:00:00",
+    "end": "2024-07-27T13:40:00",
+    "hr_duration": "01:40",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/abc364"
+  },
+  {
+    "title": "GFG Weekly - 165 [Rated Contest]",
+    "start": "2024-07-28T13:30:00",
+    "end": "2024-07-28T15:00:00",
+    "hr_duration": "01:30",
+    "icon": "./images/geeksforgeeks_org.png",
+    "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-165-rated-contest/"
+  },
+  {
+    "title": "Pinely Round 4 (Div. 1 + Div. 2)",
+    "start": "2024-07-28T14:35:00",
+    "end": "2024-07-28T17:35:00",
+    "hr_duration": "03:00",
+    "icon": "./images/codeforces_com.png",
+    "url": "https://codeforces.com/contests/1991"
+  },
+  {
+    "title": "Educational Codeforces Round 168 (Rated for Div. 2)",
+    "start": "2024-07-30T14:35:00",
+    "end": "2024-07-30T16:35:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codeforces_com.png",
+    "url": "https://codeforces.com/contests/1997"
+  },
+  {
+    "title": "Starters 145",
+    "start": "2024-07-31T14:30:00",
+    "end": "2024-07-31T16:30:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codechef_com.png",
+    "url": "https://www.codechef.com/START145"
+  },
+  {
+    "title": "Toyota Programming Contest 2024#8（AtCoder Beginner Contest 365）",
+    "start": "2024-08-03T12:00:00",
+    "end": "2024-08-03T13:40:00",
+    "hr_duration": "01:40",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/abc365"
+  },
+  {
+    "title": "AtCoder Regular Contest 181",
+    "start": "2024-08-04T12:00:00",
+    "end": "2024-08-04T14:00:00",
+    "hr_duration": "02:00",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/arc181"
+  },
+  {
+    "title": "GFG Weekly - 166 [Rated Contest]",
+    "start": "2024-08-04T13:30:00",
+    "end": "2024-08-04T15:00:00",
+    "hr_duration": "01:30",
+    "icon": "./images/geeksforgeeks_org.png",
+    "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-166-rated-contest/"
+  },
+  {
+    "title": "Codeforces Round (Div. 2)",
+    "start": "2024-08-04T14:35:00",
+    "end": "2024-08-04T16:35:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codeforces_com.png",
+    "url": "https://codeforces.com/contests/1993"
+  },
+  {
+    "title": "Starters 146",
+    "start": "2024-08-07T14:30:00",
+    "end": "2024-08-07T16:30:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codechef_com.png",
+    "url": "https://www.codechef.com/START146"
+  },
+  {
+    "title": "Starters 146 Division 1",
+    "start": "2024-08-07T14:30:00",
+    "end": "2024-08-07T16:30:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codechef_com.png",
+    "url": "https://www.codechef.com/START146A"
+  },
+  {
+    "title": "Starters 146 Division 2",
+    "start": "2024-08-07T14:30:00",
+    "end": "2024-08-07T16:30:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codechef_com.png",
+    "url": "https://www.codechef.com/START146B"
+  },
+  {
+    "title": "AtCoder Beginner Contest 366",
+    "start": "2024-08-10T12:00:00",
+    "end": "2024-08-10T13:40:00",
+    "hr_duration": "01:40",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/abc366"
+  },
+  {
+    "title": "Codeforces Round (Div. 2)",
+    "start": "2024-08-10T14:35:00",
+    "end": "2024-08-10T16:35:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codeforces_com.png",
+    "url": "https://codeforces.com/contests/1998"
+  },
+  {
+    "title": "AtCoder Regular Contest 182",
+    "start": "2024-08-11T12:00:00",
+    "end": "2024-08-11T14:00:00",
+    "hr_duration": "02:00",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/arc182"
+  },
+  {
+    "title": "GFG Weekly - 167 [Rated Contest]",
+    "start": "2024-08-11T13:30:00",
+    "end": "2024-08-11T15:00:00",
+    "hr_duration": "01:30",
+    "icon": "./images/geeksforgeeks_org.png",
+    "url": "https://practice.geeksforgeeks.org/contest/gfg-weekly-167-rated-contest/"
+  },
+  {
+    "title": "Starters 147",
+    "start": "2024-08-14T14:30:00",
+    "end": "2024-08-14T16:30:00",
+    "hr_duration": "02:00",
+    "icon": "./images/codechef_com.png",
+    "url": "https://www.codechef.com/START147"
+  },
+  {
+    "title": "AtCoder Beginner Contest 367",
+    "start": "2024-08-17T12:00:00",
+    "end": "2024-08-17T13:40:00",
+    "hr_duration": "01:40",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/abc367"
+  },
+  {
+    "title": "AtCoder Grand Contest 067",
+    "start": "2024-08-18T12:00:00",
+    "end": "2024-08-18T15:00:00",
+    "hr_duration": "03:00",
+    "icon": "./images/atcoder_jp.png",
+    "url": "https://atcoder.jp/contests/agc067"
   }
 ]
